@@ -79,7 +79,7 @@
 
 Стек: python, dash, SQL, tableau
 
-### 11.Analysis of user behavior in a mobile application
+### 11.Retention of clients of the Fitness Center
 
 Прогнозирование вероятности оттока пользователей для фитнес-центров. 
 
